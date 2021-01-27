@@ -90,4 +90,3 @@ urllib3 @ file:///tmp/build/80754af9/urllib3_1611694770489/work
 wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
 webencodings==0.5.1
 zipp @ file:///tmp/build/80754af9/zipp_1604001098328/work
-zope.interface==5.2.0
